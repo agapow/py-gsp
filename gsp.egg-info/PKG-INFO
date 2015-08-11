@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: gsp
+Version: 0.1dev-r0
+Summary: General Sequence Pattern matching
+Home-page: http://www.agapow.net/software/gsp
+Author: Paul Agapow
+Author-email: paul@agapow.net
+License: MIT
+Description: An implementation of the GSP (general sequence pattern matching) algorithm, allowing customization and modification of most parts.
+Keywords: gsp pattern-matching
+Platform: UNKNOWN

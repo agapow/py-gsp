@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+gsp/__init__.py
+gsp.egg-info/PKG-INFO
+gsp.egg-info/SOURCES.txt
+gsp.egg-info/dependency_links.txt
+gsp.egg-info/entry_points.txt
+gsp.egg-info/not-zip-safe
+gsp.egg-info/top_level.txt
