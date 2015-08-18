@@ -1,6 +1,9 @@
+README.txt
 setup.cfg
 setup.py
 gsp/__init__.py
+gsp/basesearch.py
+gsp/motifsearch.py
 gsp.egg-info/PKG-INFO
 gsp.egg-info/SOURCES.txt
 gsp.egg-info/dependency_links.txt
